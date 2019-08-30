@@ -13,7 +13,7 @@
 									<p>Tempus feugiat veroeros sed nullam dolore</p>
 								</header>
 								<a href="#" class="image featured">
-									<img src="images/pic01.jpg" alt="" />
+									<img src="@pathtofile(site/images/pic01.jpg)" alt="" />
 								</a>
 								<p>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget.
 								odio eleifend. Duis commodo fringilla commodo. Aliquam erat volutpat. Vestibulum
@@ -51,7 +51,7 @@
 										<header>
 											<h2>Magna pulvinar tempus</h2>
 										</header>
-										<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+										<a href="#" class="image featured"><img src="@pathtofile(site/images/pic05.jpg)" alt="" /></a>
 										<p>Rutrum bibendum. Proin pellentesque diam non ligula commodo tempor. Vivamus
 										eget urna nibh. Curabitur non fringilla nisl. Donec accumsan interdum nisi, quis
 										tempus.</p>
@@ -63,7 +63,7 @@
 										<header>
 											<h2>Magna pulvinar tempus</h2>
 										</header>
-										<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
+										<a href="#" class="image featured"><img src="@pathtofile(site/images/pic06.jpg)" alt="" /></a>
 										<p>Rutrum bibendum. Proin pellentesque diam non ligula commodo tempor. Vivamus
 										eget urna nibh. Curabitur non fringilla nisl. Donec accumsan interdum nisi, quis
 										tempus.</p>
@@ -94,21 +94,21 @@
 								<ul class="style2">
 									<li>
 										<article class="box post-excerpt">
-											<a href="#" class="image left"><img src="images/pic08.jpg" alt="" /></a>
+											<a href="#" class="image left"><img src="@pathtofile(site/images/pic08.jpg)" alt="" /></a>
 											<h3><a href="#">Diam odio lorem</a></h3>
 											<p>Duis odio diam, luctus et vulputate vitae, vehicula ac dolor. Pellentesque at urna eget tellus sed etiam.</p>
 										</article>
 									</li>
 									<li>
 										<article class="box post-excerpt">
-											<a href="#" class="image left"><img src="images/pic09.jpg" alt="" /></a>
+											<a href="#" class="image left"><img src="@pathtofile(site/images/pic09.jpg)" alt="" /></a>
 											<h3><a href="#">Sed duis consequat</a></h3>
 											<p>Duis odio diam, luctus et vulputate vitae, vehicula ac dolor. Pellentesque at urna eget tellus sed etiam.</p>
 										</article>
 									</li>
 									<li>
 										<article class="box post-excerpt">
-											<a href="#" class="image left"><img src="images/pic10.jpg" alt="" /></a>
+											<a href="#" class="image left"><img src="@pathtofile(site/images/pic10.jpg)" alt="" /></a>
 											<h3><a href="#">Tellus nulla volutpat</a></h3>
 											<p>Duis odio diam, luctus et vulputate vitae, vehicula ac dolor. Pellentesque at urna eget tellus sed etiam.</p>
 										</article>
